@@ -42,7 +42,7 @@ export const experiencesData = [
     description:
       "Currently building Amora at Pyramid Solutions—an AI-powered gift-sending platform with automated reminders via SMS, WhatsApp, and email.Enhancing my expertise in full-stack development, AI automation, and database management.",
     icon: React.createElement(CgWorkAlt),
-    date: "January 2025 - Present",
+    date: "January 2025 - June 2025",
   },
   {
     title: "AI Web developer",
@@ -85,7 +85,7 @@ export const projectsData = [
     ],
     imageUrl: cryptoCrowdImg,
     githubLink: "https://github.com/saif-rathod/gptx",
-    demoLink: "https://www.youtube.com/watch?v=uhyC0M4WIl4",
+    demoLink: "https://www.youtube.com/",
   },
   {
     title: "AMORA - save your love",
@@ -100,7 +100,7 @@ export const projectsData = [
       "logos:supabase-icon",
     ],
     imageUrl: ozdevsImg,
-    urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
+    // urlLink: "https://clownfish-app-48u2r.ondigitalocean.app/",
     githubLink: "https://github.com/saif-rathod/amora",
   },
   {
@@ -138,7 +138,7 @@ export const projectsData = [
     icons: ["logos:python", "logos:pytorch-icon", "logos:sqlite"],
     imageUrl: techprowlImg,
     githubLink: "https://github.com/saif-rathod/deepfake",
-    urlLink: "https://techprowl.herokuapp.com",
+    // urlLink: "https://techprowl.herokuapp.com",
   },
   {
     title: "Anomaly Detection for industrial equipment",
@@ -157,7 +157,7 @@ export const projectsData = [
     icons: ["logos:python", "logos:pytorch-icon"],
     imageUrl: familyTreeImg,
     githubLink: "https://github.com/saif-rathod/f1",
-    demoLink: "https://www.youtube.com/watch?v=VXCZKsqupxA",
+    // demoLink: "https://www.youtube.com/watch?v=VXCZKsqupxA",
   },
   {
     title: "BERT Sentiment Analysis",
@@ -167,7 +167,7 @@ export const projectsData = [
     icons: ["logos:python", "logos:pytorch-icon", "logos:flask"],
     imageUrl: binaryGameImg,
     githubLink: "https://github.com/saif-rathod/bertSA",
-    demoLink: "https://www.youtube.com/watch?v=A6n6XDk4Unw&feature=youtu.be",
+    // demoLink: "https://www.youtube.com/watch?v=A6n6XDk4Unw&feature=youtu.be",
   },
 ] as const;
 
